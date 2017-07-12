@@ -9,10 +9,10 @@ resources:
   type: cf
   source:
     api: https://api.run.pivotal.io
-    username: ((ssahadevan@pivotal.io))
-    password: ((9344shar))
-    organization: ((Central))
-    space: ((ssahadevan))
+    username: ssahadevan@pivotal.io
+    password: 9344shar
+    organization: Central
+    space: ssahadevan
 
 jobs:
 - name: test-app
